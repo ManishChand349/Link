@@ -39,7 +39,7 @@ p{
      color: #fff;
      text-align: center;
 }
-@media screen and (min-width: 425px) {
+@media screen and (max-width: 425px) {
      
    
      a {
