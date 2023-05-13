@@ -4,7 +4,3 @@ let typed = new Typed(".type",{
      backSpeed: 200,
      looped: true
 })
-
-const newAdd = () => {
-     
-}
