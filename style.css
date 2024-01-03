@@ -18,18 +18,13 @@ body{
 a{
      text-decoration: none;
      font-size: 40px;
-     border: 12px dotted;
      padding: 20px 200px;
-     border-radius: 34px;
+    
      font-weight: 800;
 }
 i{
      margin-right: 30px;
-}
-a:hover{
-     box-shadow: 3px 3px 500px #fff;
-     color: #fff;
-}
+
 h1{
      color: blue;
      text-align: center;
@@ -39,25 +34,3 @@ p{
      color: #fff;
      text-align: center;
 }
-@media screen and (max-width: 425px) {
-
-     a {
-          text-decoration: none;
-          font-size: 29px;
-          border: 2px solid;
-          padding: 2px 35px;
-          border-radius: 30px;
-          font-weight: 800;
-     }
-   }
-@media screen and (min-width: 768px) {
-     a {
-          text-decoration: none;
-     font-size: 40px;
-     border: 2px solid;
-     padding: 20px 200px;
-     border-radius: 34px;
-     font-weight: 800;
-     }
-   }
-   
